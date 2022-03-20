@@ -1,0 +1,100 @@
+ACEROLA        Fruta vermelha
+ADAM SANDLER   Conhecido por seus filmes de comédia
+ÁGUA-VIVA      Animal cnidário
+ALBERT EINSTEINFamoso físico alemão
+ALCORÃO        Livro sagrado para os islãs
+ALLADIN        História famosa do livro As Mil e uma Noites
+AMADO BATISTA  Cantor brasileiro
+ANNE           Personagem de cabelos ruivos e trançados
+ANNE FRANK     Autora de um diário famoso
+ARIANA GRANDE  Famosa atriz e cantora
+ASLAM          Animal famoso de um série de filmes
+ATENAS         Capital da Grécia
+BALEIA         Mamífero
+BIG MAC        Clássico do Mc Donalds
+CAIPIRINHA     Bebida brasileira
+CAMARÃO        Comida de praia
+CAMBERRA       Capital da Austrália
+CANJICA        Comida da culinária indígena
+CARMINHA       Vilã de uma novela famosa
+CELESTE        Cobra do Castelo Rá Tim Bum
+CHER           Dona de um dos maiores hits internacionais do final dos anos 90
+CHIMARRÃO      Típico de gaúcho
+COUNTER-STRIKE Jogo famoso de tiro
+COXINHA        Típico salgado brasileiro
+CRUELLA        Dálmatas
+CURUPIRA       Famosa figura do folclore brasileiro
+DIDI           Integrante dos Trapalhões
+DOLLY          Refrigerante famoso por suas propagandas
+DORY           Sofre de perda de memória recente
+EDNA MODA      Estilista de Os Incríveis
+EMMA STONE     La La Land
+ÉRICK JACQUIN  Conhecido como jurado no MasterChef e por seu próprio programa
+EVIDÊNCIAS     Chitãozinho & Xororó
+FÁBIO JÚNIOR   A metade da laranja
+FERRAMENTA     Dispositivo que forneça vantagem mecânica para realizar tarefas
+FRANCISCO      Papa
+FRIDA KAHLO    Pintora mexicana
+FRIENDS        Sitcom de comédia
+GETÚLIO VARGAS Conhecido como pai dos pobres
+GIRASSOL       Tipo de planta
+GOLFINHO       Animal aquático que dá "risadas"
+GRU            Meu Malvado Favorito
+HAVAÍ          Terra de vulcões
+JACKIE CHAN    Famoso ator de artes marciais
+JAKE PERALTA   Protagonista de uma série policial
+JESSIE         Série do Disney Channel
+JULIET         Óculos com o mesmo nome da campeã do BBB21
+KAMALA HARRIS  46° vice-presidente dos Estados Unidos
+KAROL CONKÁ    Mamacita
+KRATOS         Espartano famoso do mundo dos games
+LÁPIS          Material escolar
+LOS ANGELES    Hollywood
+LOS SANTOS     Cidade do GTAV
+LULA MOLUSCO   Personagem de série famosa da Nickelodeon
+MADAGASCAR     Os Pinguins de...
+MAGALI         Personagem comilona dos quadrinhos
+MANGÁ          Quadrinhos japoneses
+MARIO          Famoso personagem conhecido por seu bigode
+MASP           Museu de São Paulo
+MECA           Cidade sagrada para o Islamismo
+MERYL STREEP   Alguns dizem que é a melhor atriz de todos os tempos
+MICKEY         Rato
+MILEY CIRUS    Hannah Montana
+MINECRAFT      Jogo conhecido por ser quadrado
+MOSCOU         Capital da Rússia
+MULAN          Guerreira chinesa
+NETFLIX        Serviço de streaming
+NEW YORK       A Grande Maçã
+NILCE MORETTO  Youtuber de vlog que mora no Canadá
+OLIVIA RODRIGO Good 4 u
+OS BEATLES     Banda de rock inglesa 
+PAÇOCA         Doce de amendoim
+PAMONHA        Comida famosa de Piracicaba
+PARIS          Cidade das luzes
+PAVÊ           Sobremesa famosa por ser usada como piada de tiozão
+PEQUIM         Capital da China
+PERCY JACKSON  Série de livros adolescentes sobre semideuses gregos
+PERNALONGA     Coelho famoso
+PIPOCA         Comida típica de cinema
+PLANKTON       Vilão de um desenho aquático
+RATATOUILLE    Prato famoso "feito por rato"
+RESIDENT EVIL  Franquia de jogos de survival horror
+SAMURAI        Guerreiro profissional do Japão Feudal
+SANTIAGO       Capital do Chile
+SÃO FRANCISCO  Vale do silício
+SERGEL         Sorveteria famosa de Campinas
+SKANK          Banda brasileiro de rock
+SONIC          Ouriço azul
+TETRIS         Jogo de empilhar tetraminós
+THE SIMS       Jogo de simulação
+THE VOICE      Famoso programa musical
+THOR           Deus nórdico dos trovões e das batalhas
+TURMA DA MÔNICAHistória em quadrinhos brasileira
+TUTU           Comida mineira
+VAN GOGH       Figura influente na história da arte
+VOLDEMORT      Aquele que não deve ser nomeado
+WALTER WHITE   Professor de química de um seriado
+WILLIAN BONNER Âncora do jornal mais importante do Brasil
+ZEBRA          Animal listrado
+ZECA PAGODINHO Ícone do samba

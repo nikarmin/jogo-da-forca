@@ -1,0 +1,111 @@
+D:\source\repos\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+D:\source\repos\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+D:\source\repos\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+D:\source\repos\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+D:\source\repos\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+D:\source\repos\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+D:\source\repos\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+D:\source\repos\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+D:\source\repos\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+D:\source\repos\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\OqueV\Desktop\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\Técnicas de Programação 1\Projeto_3\21260_21689_Proj3 (4)\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Desktop\Projeto III\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\cotuca\Desktop\Cotuca 2021\Técnico\21260_21689_Proj3\21260_21689_Proj3\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csprojAssemblyReference.cache
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\OqueV\Downloads\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.AssemblyReference.cache
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+D:\Cotuca21\Semestre 1\PD\Chico INI11\Projeto III\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe.config
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.exe
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\bin\Debug\21260_21689_Proj3.pdb
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.AssemblyReference.cache
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.frmJogoForca.resources
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\_21260_21689_Proj3.Properties.Resources.resources
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.GenerateResource.cache
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.exe
+C:\Users\jvfer\Downloads\jogo-da-forca-teste-main\21260_21689_Proj3\obj\Debug\21260_21689_Proj3.pdb
